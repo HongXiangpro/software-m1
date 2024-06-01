@@ -173,7 +173,11 @@ void transform(char* input ,char* output)
     }
     *(output+j)='\0';
 }
+<<<<<<< HEAD
 //B1
+=======
+
+>>>>>>> B2
 int main()
 {
     char input[N],output[N];
