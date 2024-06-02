@@ -177,7 +177,11 @@ void transform(char* input ,char* output)
 //B1
 =======
 
+<<<<<<< HEAD
 >>>>>>> B2
+=======
+>>>>>>> C4
+>>>>>>> B3
 int main()
 {
     char input[N],output[N];
